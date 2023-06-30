@@ -15,7 +15,7 @@ const Navbar = (props: Props) => {
       <FlexBetween gap="0.65rem">
         <LocalAtmIcon sx={{ fontSize: "32px" }} />
         <Typography variant="h4" fontSize="16px">
-          Finance
+          fintra
         </Typography>
       </FlexBetween>
       {/* Right side */}
